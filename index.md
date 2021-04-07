@@ -20,7 +20,7 @@ Greenshot is available free for Windows users and available on MacOS from the ap
 ## Intended Use
 Greenshot is a desktop capturing application that allows users to have enhanced control over the process of taking screenshots.Greenshot has all the functionalities of the default Windows/MacOS screenshot tool along with many additional features like the obfuscation tool or instant uploads to imgur. Greenshot offers users full control in their capturing, editing, saving and uploading screenshots.
 
-##Procedures Included
+## Procedures Included
 In this guide we will be covering the five features that will set you on your way to becoming a Greenshot power user:
 - Capturing a screen region
 - Capturing a window
@@ -29,7 +29,7 @@ In this guide we will be covering the five features that will set you on your wa
 - Exporting your screenshots to different file types
 - Uploading to imgur/imgur integration
 
-##Typographical Conventions
+## Typographical Conventions
 This user guide uses the typological conventions listed in the table below.
 | Convention             | Typeface   | Examples                       |
 |------------------------|------------|--------------------------------|
