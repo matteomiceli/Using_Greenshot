@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Screen Capture
-nav_order: 3
+title: Imgur
+nav_order: 4
 ---
 
 ## Upload to Imgur
