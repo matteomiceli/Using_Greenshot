@@ -31,8 +31,8 @@ In this guide we will be covering the five features that will set you on your wa
 
 ## Typographical Conventions
 This user guide uses the typological conventions listed in the table below.
-| Convention             | Typeface   | Examples                       |
-| ------ | ---------- | ---------- |
+| Convention | Typeface | Examples |
+|---|---|---|
 | Key Terms and Emphasis | _Italics_  | _Capture_, _History_           |
 | Keystrokes and Clicks  | **[Bold]** | **[PrtSc]**, **[Right-Click]** |
 
