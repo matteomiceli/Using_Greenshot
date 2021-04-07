@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Introduction
+title: Introduction 
 nav_order: 1
 permalink: /
 ---
 
-#Introduction
+# Introduction
 This documentation serves as a guide to using Greenshot’s core features. Greenshot is a screenshot suite that allows users to have control over screen capture, editing, and uploading. 
 
 ## Software Requirements
