@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Obfuscate Tool
 nav_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imgur
+title: Upload to Imgur
 nav_order: 4
 ---
 
