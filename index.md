@@ -2,6 +2,7 @@
 layout: default
 title: Introduction 
 nav_order: 1
+description: ""
 permalink: /
 ---
 
@@ -38,3 +39,4 @@ This user guide uses the typological conventions listed in the table below.
 | Keystrokes and Clicks  | **[Bold]** | **[PrtSc]**, **[Right-Click]** |
 
 <span style="background-color:#F7D12E;color:black;">_note:_ Notes give additional information about a step. Notes will be preceded with the word “_note_:” encased in a yellow box.</span>
+
